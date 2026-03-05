@@ -1,0 +1,28 @@
+[MASTER]
+ignore=venv
+extension-pkg-whitelist=numpy
+
+[MESSAGES CONTROL]
+disable=
+    C0114,  ; missing-module-docstring
+    C0115,  ; missing-class-docstring
+    C0116,  ; missing-function-docstring
+    C0103,  ; invalid-name (allows x, y, df)
+    R0903,  ; too-few-public-methods
+    R0913,  ; too-many-arguments
+    W0703   ; broad-except
+
+[FORMAT]
+max-line-length=110
+
+[DESIGN]
+max-args=8
+max-locals=20
+
+[TYPECHECK]
+ignore-missing-imports=yes
+
+[REPORTS]
+output-format=text
+reports=no
+score=yes

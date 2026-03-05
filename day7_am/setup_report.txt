@@ -1,0 +1,11 @@
+=== Developer Onboarding Check ===
+[PASS] Python version: 3.14.3 (>= 3.10 required) | Time: 0.0000s
+[PASS] Virtual environment: C:\Users\Hp\day7_onboarding\onboarding_env | Time: 0.0000s
+[PASS] pylint installed: 4.0.5 | Time: 0.0032s
+[PASS] black installed: 26.1.0 | Time: 0.1018s
+[PASS] numpy installed: 2.4.2 | Time: 0.0479s
+[PASS] Internet connectivity: OK | Time: 1.1792s
+[PASS] Disk space: 117.23 GB free (>= 1GB required) | Time: 0.0001s
+
+Result: 7/7 checks passed
+Total execution time: 1.3336s

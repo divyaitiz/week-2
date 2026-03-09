@@ -1,0 +1,10 @@
+Aman, Math, 88
+Priya, Physics, 91
+Rahul, Math, 76
+Neha, Chemistry, 84
+Arjun, Physics, 79
+Kavya, Math, 93
+Rohan, Chemistry, 72
+Simran, Physics, 87
+Aditya, Math, 81
+Meera, Chemistry, 89
